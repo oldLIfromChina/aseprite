@@ -49,5 +49,5 @@ jobs:
         name: aseprite
         path: |
           libcrypto-1_1-x64.dll
-          E:\Game\MakeGame\aseprite_ly\aseprite_ly/build/bin/data
-          E:\Game\MakeGame\aseprite_ly\aseprite_ly/build/bin/aseprite.exe
+          E:/Game/MakeGame/aseprite_ly/aseprite_ly/build/bin/data
+          E:/Game/MakeGame/aseprite_ly/aseprite_ly/build/bin/aseprite.exe
